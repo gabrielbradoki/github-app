@@ -1,0 +1,3 @@
+// Função Pura depende apenas dos parâmetros
+// Função impura faz modificação em objetos externos e retorna objetos aleatórios
+
